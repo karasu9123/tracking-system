@@ -1,0 +1,4 @@
+venv/
+.idea/
+videos/*
+!videos/singapore.mp4
